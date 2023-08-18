@@ -2,5 +2,7 @@
 
 # Requirements
 pandas
+
 matplotlib
+
 random
